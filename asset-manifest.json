@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/socket.io-react-hooks-chat-client-v2/static/css/main.910aa548.chunk.css",
+    "main.js": "/socket.io-react-hooks-chat-client-v2/static/js/main.da08c1a8.chunk.js",
+    "main.js.map": "/socket.io-react-hooks-chat-client-v2/static/js/main.da08c1a8.chunk.js.map",
+    "runtime-main.js": "/socket.io-react-hooks-chat-client-v2/static/js/runtime-main.f28747b9.js",
+    "runtime-main.js.map": "/socket.io-react-hooks-chat-client-v2/static/js/runtime-main.f28747b9.js.map",
+    "static/js/2.a961b84d.chunk.js": "/socket.io-react-hooks-chat-client-v2/static/js/2.a961b84d.chunk.js",
+    "static/js/2.a961b84d.chunk.js.map": "/socket.io-react-hooks-chat-client-v2/static/js/2.a961b84d.chunk.js.map",
+    "index.html": "/socket.io-react-hooks-chat-client-v2/index.html",
+    "precache-manifest.a2aa3381ca6095a818a5e39b412f9d7a.js": "/socket.io-react-hooks-chat-client-v2/precache-manifest.a2aa3381ca6095a818a5e39b412f9d7a.js",
+    "service-worker.js": "/socket.io-react-hooks-chat-client-v2/service-worker.js",
+    "static/css/main.910aa548.chunk.css.map": "/socket.io-react-hooks-chat-client-v2/static/css/main.910aa548.chunk.css.map",
+    "static/js/2.a961b84d.chunk.js.LICENSE.txt": "/socket.io-react-hooks-chat-client-v2/static/js/2.a961b84d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28747b9.js",
+    "static/js/2.a961b84d.chunk.js",
+    "static/css/main.910aa548.chunk.css",
+    "static/js/main.da08c1a8.chunk.js"
+  ]
+}
